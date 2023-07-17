@@ -1,1 +1,5 @@
+# Temi Demo
+
 Hi Temi
+This is the first commit I will be making on this mark down file
+Let's let link up to do more
